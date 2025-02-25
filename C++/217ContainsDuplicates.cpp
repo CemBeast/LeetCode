@@ -5,7 +5,7 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        Std::unordered_map<int, int> m;
+        std::unordered_map<int, int> m;
         for(int i = 0; i < nums.size(); i++)
         {
             m[nums[i]]++;
