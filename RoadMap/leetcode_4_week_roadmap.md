@@ -15,15 +15,15 @@ Difficulty progression is **Easy → Medium**, mirroring real technical intervie
 **Goal:** Master frequency counting, pointer movement, and sliding windows.
 
 ### Day 1 — Hash Maps (Counting / Lookup)
-- [x] `1. Two Sum`
-- [x] `217. Contains Duplicate`
+- [X] `1. Two Sum`
+- [X] `217. Contains Duplicate`
 
 **Pattern:** value → index / value → count
 
 ---
 
 ### Day 2 — Strings + Hash Maps
-- [ ] `242. Valid Anagram`
+- [X] `242. Valid Anagram`
 - [ ] `383. Ransom Note`
 
 **Pattern:** character frequency comparison
